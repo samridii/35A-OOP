@@ -10,8 +10,7 @@ Also, "" represents an empty
 String. Don't forget: use \"
 instead of " !
 '' is not the same as " */
-    System.out.println("A "\"quoted\"" String is \n '\'much' better if you learn \n the rules of "\"escape sequence\""");
-
+    System.out.println("A \"quoted\" String is \n'much' better if you learn \n the rules of \"escape sequences.\"\n Also represent an empty\nString. Don't forget:use\\\"\ninstead of \" !");
 
     }
 }
