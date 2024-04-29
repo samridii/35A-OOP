@@ -7,6 +7,6 @@ public class Task1 {
          */
         /*Relational operator */
         int x=20,y=18;
-        boolean rExpression = x==y;
+        boolean Expression = x==y;
         System.out.println("Is rNum1 greater or equal to rNum2"+(x>=y));
 }
