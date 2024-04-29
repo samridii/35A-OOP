@@ -1,6 +1,6 @@
 package Task.week1;
 
-public class task3 { 
+public class Task3 { 
     public static void main(String[] args) {
         /*Write a program that prints the following output:
 A "quoted" String is
